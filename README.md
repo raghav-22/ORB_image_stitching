@@ -19,10 +19,10 @@ This is a python script for doing the same. Here I used ORB features to identify
 The data for the program are cropped regions of images, stored in a folder. The path of the folder is given as input. Program iterate through the folder and joins image based on common feature.
 
 # Input
-![data] img1.jpg img2.jpg
+img1.jpg img2.jpg
 
 # Output
-![mossaic] stiched.jpg
+stiched.jpg
 
 # How to run the code
 1. Clone the repository in your machine
